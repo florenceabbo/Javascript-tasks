@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(55, 56, 56);
+}
+
+#numbers{
+    color: rgb(252, 223, 3);
+    padding: 20px;
+    margin-right: 100px;
+    font-size: 30px;
+    /* border-style: dashed; */
+}
+#num{
+    color: rgb(252, 223, 3);
+    padding: 20px;
+    margin-right: 100px;
+    font-size: 30px;  
+}
+.form2{
+background-color: rgb(116, 13, 2);
+
+margin-left: 450px;
+margin-right: 450px;
+padding: 50px;
+}
+h1{
+    color:rgb(252, 223, 3); 
+    margin-left: 550px;
+
+}
+.failure-icon,
+.error {
+  color: red;
+}
+
+.success-icon {
+  color: green;
+}
+
+.error {
+  font-size: 14.5px;
+  margin-top: 5px;
+}
+.success-icon,
+.failure-icon {
+  right: 0;
+  opacity: 0;
+}
+button{
+    margin-top: 15px;
+    width: 25%;
+    height: 40px;
+    background-color: #fdc704;
+    border: 2px solid #f2796e;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: all 0.1s ease;
+    margin-left: 310px;  
+}
+button:hover {
+    opacity: 0.8;
+  }

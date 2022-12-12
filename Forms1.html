@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FORM ONE</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="Forms1.css" />
+  </head>
+  <body>
+    <h1 id="h1">Hello carefully fill in the form</h1>
+    
+    <div class="for">
+      <form id="form1" onsubmit= " return getFormvalue() ">
+        <label id="NUM" for="name1">First name:</label
+        ><input
+          id="name1"
+          type="text"
+          name="fname"
+          value="Abbo"
+          placeholder="Enter first name"
+        /><br />
+        <label id="NUM1" for="name2">Last name:</label>
+        <input
+          id="name2"
+          type="text"
+          name="lname"
+           value="Fulumera"
+          placeholder="Enter last name"
+        />
+        
+        <br />
+        
+         <label id="NUM2" for="Email4">Email:</label
+          ><input
+            id="Email4"
+            type="text"
+            name="Email"
+            value="fulumera@gmail.com"
+            placeholder="Enter your email"
+          /><br />
+          <label id="NUM3" for="Password5">Password:</label
+            ><input
+              id="Password5"
+              type="text"
+              name="password"
+                value="0787807880"                
+              placeholder="Enter your password"
+            /><br />
+            
+            <div class="fro">
+              <input id="v3" type="submit" value="Submit" />
+             </div>   
+      </form>
+      <p id="Name1"></p>
+    <p id="Name2"></p>
+    <p id="Emailaddress"></p>
+    <p id="password1"></p>
+    </div>
+    
+       <script src="Forms1.js" type="text/javascript"></script>
+  </body>
+</html>

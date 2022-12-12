@@ -1,0 +1,125 @@
+/* *{
+    background-color:rgb(249, 249, 253);
+
+} */
+body{
+    background-color: rgb(34, 34, 33); 
+}
+#First{
+    color: rgb(252, 223, 3);
+    padding: 20px;
+    margin-right: 100px;
+    font-size: 30px;
+    /* border-style: dashed; */
+}
+#Last{
+    color: rgb(252, 223, 3);
+    padding: 20px;
+    margin-right: 100px;
+    font-size: 30px;
+    /* border-style: dashed; */
+}
+#Email{
+    color: rgb(252, 223, 3);
+    padding: 20px;
+    margin-right: 57px;
+    font-size: 30px;
+    /* border-style: dashed; */
+}
+#Password{
+    color: rgb(252, 223, 3);
+    padding: 20px;
+    margin-right: 110px;
+    font-size: 30px;
+    /* border-style: dashed; */
+}
+
+#name1{
+    color: rgb(185, 22, 8);
+    padding: 20px;
+    border-radius: 60;
+    margin-right: 50px;
+    font-size: 30px;
+    border-style:double;
+    border-color:  rgb(252, 223, 3);
+    border-width: 5px;
+    border-radius: 20px;
+}
+#NUM{
+    color:rgb(252, 223, 3); 
+    font-size: 30px;
+    
+}
+#NUM1{
+    color:rgb(252, 223, 3); 
+    font-size: 30px;
+}
+#NUM2{
+    color:rgb(252, 223, 3); 
+    font-size: 30px;
+    margin-right: 60px;
+}
+#NUM3{
+    color:rgb(252, 223, 3); 
+    font-size: 30px;
+}
+
+#name2{
+    padding: 20px;
+    color:  rgb(185, 22, 8);
+    border-radius: 10;
+    margin-right: 50px;
+    font-size: 30px; 
+    border-color: rgb(252, 223, 3);
+    border-width: 5px; 
+    border-radius: 20px;
+    border-style:double;
+}
+#v3{
+    color: rgb(185, 22, 8);
+    padding: 20px;
+    border-radius: 20px;
+     margin-left: 150px;
+     font-size: 30px;
+     border-color: rgb(252, 223, 3);
+     border-width: 5px;
+     border-style:double;
+}
+.for{
+    text-align: center;
+background-color:rgb(61, 9, 9);
+padding: 70px;
+/* padding-left: 25px;
+padding-right: 25px; */
+margin-left: 200px;
+margin-right: 200px;
+/* justify-content: space-between; */
+border-radius: 50px;
+}
+#Email4{
+    padding: 20px;
+    color: rgb(185, 22, 8);
+    border-radius: 10;
+    margin-right: 65px;
+    font-size: 30px;
+    border-color: rgb(252, 223, 3);
+    border-width: 5px;
+    border-radius: 20px;
+    border-style:double;
+}
+#Password5{
+    padding: 20px;
+    color: rgb(185, 22, 8);
+    border-radius: 10;
+    margin-right: 50px;
+    font-size: 30px;
+    border-color: rgb(252, 223, 3);
+    border-width: 5px;
+    border-radius: 20px;
+    border-style:double;
+    
+}
+#h1{
+      color:rgb(252, 223, 3);
+      margin-left: 500px;
+}
